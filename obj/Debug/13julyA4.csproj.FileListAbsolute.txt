@@ -1,0 +1,8 @@
+D:\13julyA4\13julyA4\bin\Debug\13julyA4.exe.config
+D:\13julyA4\13julyA4\bin\Debug\13julyA4.exe
+D:\13julyA4\13julyA4\bin\Debug\13julyA4.pdb
+D:\13julyA4\13julyA4\obj\Debug\13julyA4.csproj.AssemblyReference.cache
+D:\13julyA4\13julyA4\obj\Debug\13julyA4.csproj.SuggestedBindingRedirects.cache
+D:\13julyA4\13julyA4\obj\Debug\13julyA4.csproj.CoreCompileInputs.cache
+D:\13julyA4\13julyA4\obj\Debug\13julyA4.exe
+D:\13julyA4\13julyA4\obj\Debug\13julyA4.pdb
